@@ -1,1 +1,3 @@
-import RIFU2
+print("GANJA LITE 👀")
+print("Value Nai Ar")
+print("So Try Others Toosl")
